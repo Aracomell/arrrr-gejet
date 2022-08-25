@@ -10,7 +10,7 @@ global.owner = [
   [''],
   [''],
   ['', '', true],
-  ['6289510598381', 'YogzKyz', true],
+  ['6289504231588', 'araa kawaii', true],
   ['', '', true],
   ['', '', true],
   ['', '', true],
